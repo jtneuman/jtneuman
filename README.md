@@ -1,4 +1,4 @@
-<h1>Hello, Welcome to my repository... <br/><a href="https://github.com/jtneuman">CyberSecurity Professional</a>, <a href="https://www.linkedin.com/in/joshuaneuman7/">
+<h1>Hello, Welcome to my repository... <br/><a href="https://github.com/jtneuman">CyberSecurity Professional</a> <a href="https://www.linkedin.com/in/joshuaneuman7/">
 
 <h2> Cybersecurity Projects:</h2>
 
